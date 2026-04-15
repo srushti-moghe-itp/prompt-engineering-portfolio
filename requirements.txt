@@ -1,6 +1,6 @@
 openai
-anthropic
 python-dotenv
 jupyter
 pandas
 rich
+groq
